@@ -1,0 +1,6 @@
+@EhrFhir.Api_HostAddress = http://localhost:5068
+
+GET {{EhrFhir.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
